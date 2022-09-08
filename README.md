@@ -42,6 +42,6 @@ I'm also a:
 ---
 
 ## 🔥 My Statistics
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tribui141108&theme=dark&background=000000)
+[![Anson's GitHub stats](https://github-readme-stats.vercel.app/api?username=tribui141108&show_icons=true&layout=compact&theme=dark)](https://github.com/tribui141108)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tribui141108&layout=compact&theme=vision-friendly-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stuyy&layout=compact&theme=dark)](https://github.com/tribui141108)
