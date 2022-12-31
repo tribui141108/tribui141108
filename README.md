@@ -4,8 +4,8 @@
     <img src="./Logo.png" width="100" style="border-radius: 50%" />
     <h2 style="font-weight: bold">Minh Tri Bui</h2>
     <div id="badges">
-    <a href="https://twitter.com/tribui141108">
-        <img src="https://img.shields.io/badge/tribui141108-blue?style=for-the-badge&logo=twitter" alt="NPM Badge"/>
+    <a href="https://twitter.com/minhtribui153">
+        <img src="https://img.shields.io/badge/minhtribui153-blue?style=for-the-badge&logo=twitter" alt="NPM Badge"/>
     </a>
     <a href="https://www.npmjs.com/~tribui141108">
         <img src="https://img.shields.io/badge/tribui141108-red?style=for-the-badge&logo=npm&logoColor=red" alt="NPM Badge"/>
@@ -42,6 +42,6 @@ I'm also a:
 ---
 
 ## 🔥 My Statistics
-[![Anson's GitHub stats](https://github-readme-stats.vercel.app/api?username=tribui141108&show_icons=true&layout=compact&theme=dark)](https://github.com/tribui141108)
+[![Minh Tri's GitHub stats](https://github-readme-stats.vercel.app/api?username=tribui141108&show_icons=true&layout=compact&theme=dark)](https://github.com/tribui141108)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stuyy&layout=compact&theme=dark)](https://github.com/tribui141108)
